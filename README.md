@@ -10,6 +10,8 @@ Simple automized file manager - Cross platform (Java version + C version for UNI
   * Nationality
     * France
 
+## License
+
 MIT License
 
 Copyright (c) 2016 Flament Maxime & Moineau Maxime
