@@ -1,6 +1,8 @@
 # AutoManager
 Simple automized file manager - Cross platform (Java version + C version for UNIX systems)
 
+    [Maxime Moineau](maxime.moineau.dev@gmail.com)
+    [Maxime Flament](maxime.flament@etu.unice.fr)
 
 MIT License
 
