@@ -4,7 +4,7 @@ Simple automized file manager - Cross platform (Java version + C version for UNI
 
 MIT License
 
-Copyright (c) 2016 Flament Maxime
+Copyright (c) 2016 Flament Maxime & Moineau Maxime
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
